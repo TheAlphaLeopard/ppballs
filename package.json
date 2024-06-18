@@ -2,6 +2,7 @@
   "dependencies": {
     "http-server": "^14.1.1",
     "live-server": "^1.2.2",
-    "node.js": "^0.0.1-security"
+    "node.js": "^0.0.1-security",
+    "socket.io": "^4.7.5"
   }
 }
